@@ -54,3 +54,8 @@ you will take inspiration from the `PizzaBuilder` and create a builder class for
 Your builder should include reasonable sanity checks
 to ensure that only plausible and functional `Car` objects may be constructed.
 Finally, use your builder to construct two `Car` instances in the existing `main` method and print their details.
+
+### BONUS TASK: Car director
+
+For the bonus task, you will create a director that uses the car builder to construct a predefined `SUV` Car Object and 
+a predefined `SportsCar` Object to replace the construction of these objects in the `main` method.
