@@ -10,6 +10,9 @@ Welcome to this workshop. In this workshop, we will be using the builder pattern
 to make complex classes with many constructor parameters more accessible and
 flexible when programming with Java.
 
+This project uses the IntelliJ IDEA build system and requires IntelliJ IDEA to be run
+out of the box.
+
 ## The builder pattern
 
 The builder pattern involves creating a special class known as a builder for the
